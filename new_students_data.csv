@@ -1,0 +1,605 @@
+I Enjoy Learning Mathematics,I Feel Confident When Solving Math Problems,Mathematics Is Useful In Real Life,I Get Anxious During Mathematics Lessons,I Believe I Can Perform Well In Mathematics,There Are Enough Mathematics Textbooks For All Students,"The School Provides Mathematical Instruments (Rulers, Compasses, Sets)",Teachers Use Relevant Teaching Aids Like Charts And Models,Students Have Access To Practice Tests And Past Papers For Mathematics,Learning Materials Are Updated To Reflect The Current Syllabus,Name Of The School.,Sub-County,County,Gender,Attitude,Availability of learning materials
+4.0,4,5.0,4.0,4.0,2.0,1.0,2,2.0,4.0,Kaudha_Mixed,Wagai,Siaya,Male,4.2,2.2
+5.0,2,3.0,3.0,4.0,1.0,4.0,2,4.0,3.0,Kaudha_Mixed,Wagai,Siaya,Female,3.4,2.8
+5.0,4,5.0,2.0,4.0,4.0,1.0,2,5.0,4.0,Kaudha_Mixed,Wagai,Siaya,Male,4.0,3.2
+5.0,5,5.0,1.0,5.0,4.0,3.0,1,1.0,4.0,Kaudha_Mixed,Wagai,Siaya,Male,4.2,2.6
+3.0,3,1.0,3.0,1.0,3.0,2.0,3,3.0,1.0,Kaudha_Mixed,Wagai,Siaya,Female,2.2,2.4
+4.0,4,4.0,2.0,4.0,4.0,4.0,4,4.0,,Kaudha_Mixed,Wagai,Siaya,Male,3.6,4.0
+1.0,4,1.0,4.0,1.0,2.0,2.0,5,5.0,1.0,Kaudha_Mixed,Wagai,Siaya,Male,2.2,3.0
+4.0,4,4.0,2.0,4.0,4.0,4.0,4,4.0,4.0,Kaudha_Mixed,Wagai,Siaya,Female,3.6,4.0
+5.0,5,5.0,5.0,5.0,1.0,1.0,5,1.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,5.0,2.6
+3.0,4,5.0,5.0,5.0,2.0,1.0,5,1.0,1.0,Kaudha_Mixed,Wagai,Siaya,Female,4.4,2.0
+4.0,3,4.0,3.0,4.0,4.0,2.0,3,4.0,4.0,Kaudha_Mixed,Wagai,Siaya,Female,3.6,3.4
+5.0,4,5.0,4.0,5.0,1.0,1.0,5,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,4.6,3.4
+5.0,5,5.0,2.0,5.0,4.0,1.0,4,4.0,4.0,Kaudha_Mixed,Wagai,Siaya,Female,4.4,3.4
+4.0,4,4.0,4.0,4.0,4.0,2.0,4,4.0,2.0,Kaudha_Mixed,Wagai,Siaya,Female,4.0,3.2
+5.0,4,5.0,2.0,5.0,1.0,1.0,4,1.0,4.0,Kaudha_Mixed,Wagai,Siaya,Male,4.2,2.2
+5.0,5,5.0,5.0,5.0,3.0,1.0,3,5.0,4.0,Kaudha_Mixed,Wagai,Siaya,Male,5.0,3.2
+3.0,3,3.0,3.0,4.0,4.0,2.0,4,4.0,4.0,Budokomi_Mixed,BUSIA,Busia,Female,3.2,3.6
+4.0,1,5.0,1.0,4.0,5.0,1.0,5,1.0,1.0,Nyalunya_Mixed,Wagai,Siaya,Male,3.0,2.6
+5.0,5,5.0,1.0,5.0,5.0,1.0,5,5.0,3.0,Nyalunya_Mixed,Wagai,Siaya,Female,4.2,3.8
+2.0,4,5.0,4.0,4.0,5.0,1.0,5,1.0,5.0,Nyalunya_Mixed,Wagai,Siaya,Male,3.8,3.4
+1.0,2,4.0,4.0,3.0,4.0,4.0,3,1.0,3.0,Nyalunya_Mixed,Wagai,Siaya,Female,2.8,3.0
+3.0,3,5.0,5.0,5.0,5.0,1.0,1,3.0,3.0,Nyalunya_Mixed,Wagai,Siaya,Male,4.2,2.6
+4.0,3,4.0,2.0,4.0,5.0,1.0,1,4.0,1.0,Nyalunya_Mixed,Wagai,Siaya,Female,3.4,2.4
+3.0,4,5.0,3.0,4.0,4.0,1.0,3,5.0,4.0,Nyalunya_Mixed,Wagai,Siaya,Female,3.8,3.4
+5.0,5,5.0,4.0,4.0,4.0,2.0,2,1.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,4.6,2.8
+1.0,2,4.0,5.0,4.0,1.0,1.0,5,1.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,3.2,2.6
+1.0,4,1.0,2.0,1.0,1.0,5.0,4,4.0,4.0,Kaudha_Mixed,Wagai,Siaya,Female,1.8,3.6
+4.0,4,4.0,4.0,2.0,2.0,4.0,4,5.0,1.0,Kaudha_Mixed,Wagai,Siaya,Female,3.6,3.2
+5.0,5,5.0,2.0,5.0,5.0,4.0,5,5.0,1.0,Kaudha_Mixed,Wagai,Siaya,Female,4.4,4.0
+5.0,5,5.0,2.0,5.0,1.0,1.0,5,5.0,1.0,Kaudha_Mixed,Wagai,Siaya,Female,4.4,2.6
+5.0,4,5.0,2.0,5.0,5.0,1.0,5,5.0,4.0,Kaudha_Mixed,Wagai,Siaya,Female,4.2,4.0
+5.0,5,5.0,3.0,5.0,5.0,3.0,5,5.0,1.0,Kaudha_Mixed,Wagai,Siaya,Female,4.6,3.8
+5.0,5,5.0,2.0,4.0,1.0,1.0,1,5.0,1.0,Kaudha_Mixed,Wagai,Siaya,Female,4.2,1.8
+5.0,5,5.0,2.0,5.0,1.0,1.0,2,4.0,4.0,Kaudha_Mixed,Wagai,Siaya,Female,4.4,2.4
+5.0,5,5.0,3.0,5.0,1.0,1.0,5,1.0,3.0,Kaudha_Mixed,Wagai,Siaya,Female,4.6,2.2
+4.0,3,5.0,1.0,3.0,4.0,3.0,4,5.0,3.0,Kaudha_Mixed,Wagai,Siaya,Female,3.2,3.8
+3.0,3,5.0,5.0,5.0,4.0,2.0,5,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,4.2,4.2
+5.0,4,5.0,3.0,5.0,4.0,2.0,3,3.0,4.0,Kaudha_Mixed,Wagai,Siaya,Female,4.4,3.2
+5.0,5,5.0,5.0,5.0,5.0,1.0,5,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Male,5.0,4.2
+5.0,5,5.0,5.0,5.0,2.0,1.0,5,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,5.0,3.6
+4.0,4,5.0,2.0,5.0,1.0,1.0,5,,5.0,Kaudha_Mixed,Wagai,Siaya,Female,4.0,3.0
+5.0,5,5.0,2.0,5.0,2.0,1.0,2,4.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,4.4,2.8
+5.0,4,5.0,,3.0,4.0,3.0,1,4.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,4.25,3.4
+5.0,5,5.0,4.0,4.0,4.0,1.0,4,5.0,4.0,Kaudha_Mixed,Wagai,Siaya,Male,4.6,3.6
+3.0,5,5.0,5.0,5.0,1.0,1.0,1,5.0,1.0,Kaudha_Mixed,Wagai,Siaya,Female,4.6,1.8
+4.0,3,5.0,3.0,5.0,2.0,1.0,3,5.0,4.0,Kaudha_Mixed,Wagai,Siaya,Male,4.0,3.0
+4.0,4,5.0,5.0,1.0,1.0,3.0,1,5.0,1.0,Kaudha_Mixed,Wagai,Siaya,Female,3.8,2.2
+4.0,4,4.0,5.0,4.0,1.0,1.0,4,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,4.2,3.2
+4.0,4,4.0,5.0,4.0,4.0,1.0,1,4.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,4.2,3.0
+5.0,5,5.0,2.0,4.0,1.0,1.0,2,5.0,1.0,Kaudha_Mixed,Wagai,Siaya,Female,4.2,2.0
+5.0,5,5.0,1.0,5.0,4.0,4.0,2,5.0,1.0,Kaudha_Mixed,Wagai,Siaya,Female,4.2,3.2
+5.0,5,5.0,5.0,5.0,3.0,2.0,4,4.0,5.0,Kaudha_Mixed,Wagai,Siaya,Male,5.0,3.6
+5.0,4,5.0,5.0,5.0,2.0,1.0,2,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Male,4.8,3.0
+1.0,3,3.0,1.0,4.0,1.0,1.0,1,2.0,5.0,Kaudha_Mixed,Wagai,Siaya,Male,2.4,2.0
+5.0,5,5.0,3.0,5.0,3.0,5.0,1,5.0,3.0,Kaudha_Mixed,Wagai,Siaya,Male,4.6,3.4
+3.0,4,1.0,3.0,4.0,1.0,1.0,2,4.0,4.0,Kaudha_Mixed,Wagai,Siaya,Male,3.0,2.4
+3.0,3,4.0,4.0,1.0,5.0,2.0,5,5.0,2.0,Kaudha_Mixed,Wagai,Siaya,Female,3.0,3.8
+3.0,5,3.0,2.0,4.0,1.0,1.0,2,3.0,3.0,Kaudha_Mixed,Wagai,Siaya,Male,3.4,2.0
+2.0,1,3.0,4.0,3.0,4.0,1.0,1,3.0,2.0,Kaudha_Mixed,Wagai,Siaya,Male,2.6,2.2
+2.0,1,3.0,2.0,3.0,1.0,1.0,1,4.0,3.0,Kaudha_Mixed,Wagai,Siaya,Male,2.2,2.0
+5.0,5,5.0,5.0,5.0,5.0,5.0,5,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Male,5.0,5.0
+3.0,3,4.0,4.0,1.0,5.0,5.0,5,5.0,1.0,Kaudha_Mixed,Wagai,Siaya,Female,3.0,4.2
+5.0,5,5.0,5.0,5.0,3.0,3.0,1,5.0,1.0,Kaudha_Mixed,Wagai,Siaya,Female,5.0,2.6
+3.0,2,4.0,5.0,4.0,1.0,1.0,3,4.0,1.0,Kaudha_Mixed,Wagai,Siaya,Male,3.6,2.0
+5.0,5,5.0,3.0,5.0,1.0,1.0,3,1.0,5.0,Kaudha_Mixed,Wagai,Siaya,Male,4.6,2.2
+5.0,5,5.0,1.0,5.0,5.0,5.0,5,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Male,4.2,5.0
+4.0,4,5.0,5.0,5.0,1.0,1.0,1,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Male,4.6,2.6
+5.0,5,5.0,4.0,5.0,4.0,4.0,5,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Male,4.8,4.6
+3.0,3,1.0,3.0,4.0,3.0,1.0,4,3.0,4.0,Kaudha_Mixed,Wagai,Siaya,Female,2.8,3.0
+4.0,4,1.0,3.0,4.0,1.0,1.0,2,4.0,3.0,Kaudha_Mixed,Wagai,Siaya,Male,3.2,2.2
+3.0,3,5.0,2.0,3.0,1.0,3.0,2,4.0,4.0,Kaudha_Mixed,Wagai,Siaya,Male,3.2,2.8
+5.0,3,5.0,2.0,5.0,5.0,1.0,5,5.0,4.0,Kaudha_Mixed,Wagai,Siaya,Male,4.0,4.0
+4.0,3,5.0,3.0,5.0,4.0,1.0,4,3.0,3.0,Kaudha_Mixed,Wagai,Siaya,Female,4.0,3.0
+5.0,2,5.0,3.0,5.0,2.0,5.0,5,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Male,4.0,4.4
+5.0,2,5.0,3.0,5.0,2.0,1.0,3,5.0,3.0,Kaudha_Mixed,Wagai,Siaya,Male,4.0,2.8
+4.0,2,3.0,1.0,5.0,2.0,1.0,5,3.0,4.0,Kaudha_Mixed,Wagai,Siaya,Male,3.0,3.0
+4.0,4,5.0,3.0,5.0,4.0,5.0,2,,4.0,Kaudha_Mixed,Wagai,Siaya,Male,4.2,3.75
+4.0,4,5.0,3.0,5.0,1.0,1.0,4,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,4.2,3.2
+4.0,3,5.0,2.0,4.0,5.0,1.0,4,5.0,4.0,Kaudha_Mixed,Wagai,Siaya,Female,3.6,3.8
+3.0,4,5.0,5.0,4.0,1.0,5.0,5,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,4.2,4.2
+2.0,4,2.0,5.0,4.0,2.0,2.0,2,2.0,3.0,Kaudha_Mixed,Wagai,Siaya,Female,3.4,2.2
+3.0,3,2.0,2.0,5.0,4.0,2.0,5,3.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,3.0,3.8
+4.0,5,5.0,4.0,5.0,5.0,1.0,2,5.0,3.0,Kaudha_Mixed,Wagai,Siaya,Male,4.6,3.2
+3.0,4,5.0,1.0,5.0,2.0,5.0,5,3.0,5.0,Kaudha_Mixed,Wagai,Siaya,Male,3.6,4.0
+3.0,4,5.0,2.0,5.0,2.0,1.0,2,4.0,3.0,Kaudha_Mixed,Wagai,Siaya,Male,3.8,2.4
+5.0,3,5.0,4.0,3.0,2.0,1.0,5,4.0,4.0,Kaudha_Mixed,Wagai,Siaya,Male,4.0,3.2
+5.0,5,5.0,1.0,5.0,4.0,1.0,5,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Male,4.2,4.0
+3.0,4,4.0,3.0,4.0,1.0,4.0,5,2.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,3.6,3.4
+2.0,3,5.0,3.0,3.0,2.0,2.0,1,1.0,3.0,Kaudha_Mixed,Wagai,Siaya,Female,3.2,1.8
+5.0,3,5.0,5.0,5.0,5.0,1.0,1,5.0,3.0,Kaudha_Mixed,Wagai,Siaya,Female,4.6,3.0
+5.0,5,3.0,1.0,5.0,5.0,1.0,5,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,3.8,4.2
+5.0,3,5.0,4.0,2.0,5.0,4.0,2,5.0,2.0,Kaudha_Mixed,Wagai,Siaya,Female,3.8,3.6
+,5,2.0,5.0,5.0,1.0,1.0,1,2.0,3.0,Kaudha_Mixed,Wagai,Siaya,Female,4.25,1.6
+3.0,4,5.0,2.0,3.0,2.0,1.0,4,3.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,3.4,3.0
+4.0,3,4.0,4.0,3.0,4.0,1.0,1,4.0,4.0,Kaudha_Mixed,Wagai,Siaya,Female,3.6,2.8
+3.0,3,5.0,5.0,5.0,4.0,1.0,1,5.0,2.0,Kaudha_Mixed,Wagai,Siaya,Female,4.2,2.6
+1.0,5,5.0,,1.0,1.0,5.0,5,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Male,3.0,4.2
+2.0,5,5.0,1.0,2.0,4.0,2.0,1,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Male,3.0,3.4
+5.0,3,5.0,1.0,5.0,5.0,1.0,2,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Male,3.8,3.6
+4.0,5,5.0,3.0,5.0,5.0,1.0,1,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Male,4.4,3.4
+4.0,4,5.0,4.0,3.0,3.0,1.0,1,3.0,4.0,Kaudha_Mixed,Wagai,Siaya,Female,4.0,2.4
+4.0,4,5.0,4.0,5.0,3.0,1.0,1,3.0,4.0,Kaudha_Mixed,Wagai,Siaya,Female,4.4,2.4
+4.0,3,5.0,1.0,5.0,4.0,2.0,5,1.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,3.6,3.4
+3.0,3,5.0,3.0,5.0,4.0,1.0,3,3.0,3.0,Kaudha_Mixed,Wagai,Siaya,Female,3.8,2.8
+3.0,5,3.0,2.0,4.0,3.0,2.0,2,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,3.4,3.4
+2.0,3,3.0,2.0,3.0,5.0,5.0,2,1.0,5.0,Kaudha_Mixed,Wagai,Siaya,Male,2.6,3.6
+3.0,3,5.0,1.0,4.0,4.0,1.0,5,4.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,3.2,3.8
+5.0,4,5.0,1.0,1.0,5.0,4.0,1,3.0,3.0,Kaudha_Mixed,Wagai,Siaya,Male,3.2,3.2
+4.0,1,5.0,4.0,5.0,4.0,2.0,4,5.0,2.0,Kaudha_Mixed,Wagai,Siaya,Male,3.8,3.4
+3.0,5,4.0,3.0,5.0,1.0,1.0,5,5.0,4.0,Kaudha_Mixed,Wagai,Siaya,Female,4.0,3.2
+,3,3.0,5.0,,4.0,4.0,4,,4.0,Kaudha_Mixed,Wagai,Siaya,Female,3.6666666666666665,4.0
+4.0,4,4.0,4.0,4.0,5.0,2.0,1,1.0,5.0,Kaudha_Mixed,Wagai,Siaya,Male,4.0,2.8
+4.0,3,5.0,3.0,4.0,5.0,5.0,4,5.0,5.0,Kaudha_Mixed,Wagai,Siaya,Female,3.8,4.8
+,1,2.0,1.0,5.0,1.0,5.0,1,3.0,2.0,Kaudha_Mixed,Wagai,Siaya,Male,2.25,2.4
+5.0,5,5.0,4.0,5.0,5.0,2.0,2,1.0,4.0,Kaudha_Mixed,Wagai,Siaya,Female,4.8,2.8
+5.0,4,5.0,5.0,5.0,3.0,1.0,3,5.0,4.0,Kaudha_Mixed,Wagai,Siaya,Male,4.8,3.2
+5.0,5,5.0,1.0,5.0,5.0,5.0,1,1.0,5.0,Budokomi_Mixed,Busia,Busia ,Male,4.2,3.4
+5.0,5,5.0,4.0,5.0,5.0,2.0,4,4.0,4.0,Budokomi_Mixed,Busia,Busia,Male,4.8,3.8
+4.0,5,5.0,1.0,2.0,4.0,2.0,2,4.0,4.0,Nyalunya_Mixed,Wagai ,Siaya,Male,3.4,3.2
+2.0,3,2.0,1.0,5.0,5.0,1.0,1,5.0,4.0,Nyalunya_Mixed,Wagai,Siaya,Female,2.6,3.2
+4.0,5,5.0,2.0,2.0,4.0,1.0,4,5.0,4.0,Nyalunya_Mixed,Wagai,Siaya,Male,3.6,3.6
+4.0,4,5.0,4.0,5.0,5.0,1.0,1,5.0,5.0,Nyalunya_Mixed,Wagai ,Siaya,Male,4.4,3.4
+4.0,4,5.0,4.0,2.0,1.0,4.0,4,4.0,5.0,Nyalunya_Mixed,Wagai ,Siaya,Male,3.8,3.6
+4.0,1,4.0,2.0,4.0,4.0,2.0,4,5.0,2.0,Nyalunya_Mixed,Wagai ,Siaya,Male,3.0,3.4
+4.0,4,5.0,2.0,5.0,5.0,2.0,1,5.0,5.0,Nyalunya_Mixed,Wagai ,Siaya,Male,4.0,3.6
+5.0,4,4.0,4.0,1.0,5.0,1.0,2,4.0,5.0,Nyalunya_Mixed,Wagai ,Siaya,Male,3.6,3.4
+2.0,4,3.0,4.0,4.0,5.0,5.0,5,2.0,5.0,Nyalunya_Mixed,Wagai ,Siaya,Male,3.4,4.4
+5.0,3,5.0,5.0,5.0,4.0,1.0,1,4.0,3.0,Nyalunya_Mixed,Wagai ,Siaya,Male,4.6,2.6
+2.0,2,5.0,1.0,5.0,2.0,2.0,1,1.0,5.0,Nyalunya_Mixed,Wagai ,Siaya,Male,3.0,2.2
+4.0,5,3.0,1.0,2.0,4.0,5.0,5,4.0,2.0,Nyalunya_Mixed,Wagai,Siaya,Female,3.0,4.0
+3.0,4,5.0,4.0,2.0,5.0,5.0,1,1.0,5.0,Nyalunya_Mixed,Wagai,Siaya,Female,3.6,3.4
+2.0,5,4.0,2.0,1.0,1.0,3.0,1,2.0,2.0,Nyalunya_Mixed,Wagai ,Siaya,Female,2.8,1.8
+4.0,4,4.0,1.0,5.0,5.0,1.0,1,1.0,3.0,Nyalunya_Mixed,Wagai ,Siaya,Male,3.6,2.2
+1.0,1,4.0,3.0,4.0,1.0,4.0,1,4.0,1.0,Nyalunya_Mixed,Wagai ,Siaya,Female,2.6,2.2
+5.0,2,5.0,4.0,5.0,5.0,3.0,3,5.0,5.0,Nyalunya_Mixed,Wagai ,Siaya ,Female,4.2,4.2
+5.0,4,3.0,1.0,2.0,5.0,2.0,1,1.0,2.0,Nyalunya_Mixed,Wagai ,Siaya,Female,3.0,2.2
+5.0,5,5.0,5.0,5.0,5.0,1.0,1,4.0,4.0,Nyalunya_Mixed,Wagai ,Siaya,Female,5.0,3.0
+2.0,4,2.0,2.0,5.0,5.0,1.0,1,1.0,5.0,Nyalunya_Mixed,Wagai ,Siaya,Female,3.0,2.6
+2.0,4,5.0,5.0,1.0,2.0,5.0,1,1.0,2.0,Nyalunya_Mixed,Wagai ,Siaya,Female,3.4,2.2
+2.0,4,3.0,2.0,4.0,3.0,5.0,4,3.0,4.0,Nyalunya_Mixed,Wagai ,Siaya,Female,3.0,3.8
+4.0,3,4.0,1.0,2.0,3.0,1.0,1,3.0,,Nyalunya_Mixed,Wagai ,Siaya,Female,2.8,2.0
+4.0,5,4.0,4.0,4.0,5.0,1.0,2,4.0,1.0,Nyalunya_Mixed,Wagai ,Siaya,Male,4.2,2.6
+4.0,5,3.0,4.0,4.0,5.0,2.0,5,2.0,2.0,Nyalunya_Mixed,Wagai ,Siaya,Male,4.0,3.2
+4.0,4,4.0,1.0,5.0,2.0,2.0,2,3.0,4.0,Nyalunya_Mixed,Wagai ,Siaya,Female,3.6,2.6
+3.0,3,2.0,1.0,5.0,5.0,2.0,4,4.0,4.0,Nyalunya_Mixed,Wagai ,Siaya,Female,2.8,3.8
+2.0,3,5.0,3.0,3.0,4.0,4.0,3,2.0,3.0,Nyalunya_Mixed,Wagai ,Siaya,Female,3.2,3.2
+3.0,4,4.0,4.0,1.0,4.0,2.0,3,4.0,4.0,Nyalunya_Mixed,Wagai ,Siaya,Male,3.2,3.4
+2.0,3,5.0,2.0,5.0,5.0,3.0,2,5.0,4.0,Nyalunya_Mixed,Wagai,Siaya,Female,3.4,3.8
+4.0,5,5.0,5.0,5.0,5.0,1.0,3,1.0,5.0,Nyalunya_Mixed,Wagai ,Siaya,Female,4.8,3.0
+2.0,5,5.0,4.0,5.0,5.0,1.0,3,1.0,5.0,Nyalunya_Mixed,Wagai ,Siaya,Female,4.2,3.0
+4.0,5,4.0,4.0,3.0,3.0,2.0,2,3.0,5.0,Nyalunya_Mixed,Wagai ,Siaya,Female,4.0,3.0
+2.0,5,2.0,3.0,4.0,5.0,3.0,3,2.0,1.0,Nyalunya_Mixed,Wagai ,Siaya,Female,3.2,2.8
+1.0,5,5.0,5.0,5.0,3.0,5.0,3,5.0,5.0,Nyalunya_Mixed,Wagai ,Siaya,Female,4.2,4.2
+5.0,5,3.0,1.0,5.0,,4.0,5,1.0,4.0,Nyalunya_Mixed,Wagai ,Siaya,Female,3.8,3.5
+4.0,5,5.0,1.0,4.0,2.0,3.0,2,2.0,5.0,Nyalunya_Mixed,Wagai ,Siaya,Female,3.8,2.8
+4.0,5,5.0,3.0,5.0,5.0,1.0,5,4.0,5.0,Nyalunya_Mixed,Wagai ,Siaya,Male,4.4,4.0
+5.0,5,5.0,1.0,5.0,5.0,5.0,1,1.0,5.0,Budokomi_Mixed,Busia,Busia,Male,4.2,3.4
+4.0,3,4.0,2.0,4.0,4.0,1.0,2,3.0,2.0,Nyalunya_Mixed,Wagai ,Siaya,Female,3.4,2.4
+5.0,5,5.0,1.0,5.0,5.0,5.0,1,1.0,5.0,Budokomi_Mixed,Busia,Busia,Male,4.2,3.4
+,4,4.0,4.0,3.0,2.0,2.0,3,4.0,4.0,Nyalunya_Mixed,Wagai ,Siaya,Male,3.75,3.0
+5.0,5,5.0,1.0,5.0,5.0,5.0,1,1.0,5.0,Budokomi_Mixed,Busia,Busia,Male,4.2,3.4
+4.0,4,5.0,4.0,1.0,5.0,5.0,1,1.0,5.0,Nyalunya_Mixed,Wagai,Siaya,Female,3.6,3.4
+5.0,5,5.0,1.0,5.0,5.0,5.0,1,1.0,5.0,Budokomi_Mixed,Busia ,Busia ,Male,4.2,3.4
+5.0,5,2.0,2.0,3.0,3.0,3.0,4,4.0,2.0,Nyalunya_Mixed,Wagai ,Siaya,Female,3.4,3.2
+5.0,5,5.0,1.0,5.0,5.0,5.0,1,1.0,5.0,Budokomi_Mixed,Busia,Busia,Male,4.2,3.4
+5.0,5,5.0,1.0,5.0,5.0,5.0,1,1.0,5.0,Budokomi_Mixed,Busia,Busia,Female,4.2,3.4
+4.0,4,5.0,2.0,4.0,5.0,3.0,3,5.0,5.0,Nyalunya_Mixed,Wagai ,Siaya,Female,3.8,4.2
+5.0,5,5.0,1.0,5.0,5.0,5.0,1,1.0,5.0,Budokomi_Mixed,Busia,Busia,Male,4.2,3.4
+5.0,5,5.0,1.0,5.0,5.0,5.0,1,1.0,5.0,Budokomi_Mixed,Busia ,Busia,Male,4.2,3.4
+5.0,5,5.0,1.0,5.0,5.0,5.0,1,1.0,5.0,Budokomi_Mixed,Busia ,Busia ,Male,4.2,3.4
+4.0,5,4.0,1.0,5.0,5.0,,5,5.0,1.0,Budokomi_Mixed,Busia ,Busia ,Male,3.8,4.0
+4.0,4,4.0,1.0,5.0,5.0,5.0,5,5.0,5.0,Budokomi_Mixed,Busia,Busia ,Male,3.6,5.0
+4.0,4,4.0,2.0,4.0,,4.0,3,4.0,4.0,Budokomi_Mixed,busia,busia,Male,3.6,3.75
+5.0,4,4.0,2.0,4.0,4.0,4.0,4,4.0,4.0,Budokomi_Mixed,Busia ,Busia ,Male,3.8,4.0
+4.0,4,4.0,2.0,3.0,3.0,4.0,4,4.0,4.0,Budokomi_Mixed,busia,busia,Female,3.4,3.8
+4.0,5,5.0,1.0,5.0,5.0,5.0,4,4.0,4.0,Budokomi_Mixed,Busia,Busia,Male,4.0,4.4
+4.0,5,4.0,2.0,3.0,3.0,3.0,3,4.0,4.0,Budokomi_Mixed,busia,busia,Female,3.6,3.4
+4.0,4,4.0,1.0,5.0,5.0,5.0,4,4.0,4.0,Budokomi_Mixed,Busia,Busia,Male,3.6,4.4
+5.0,5,5.0,2.0,5.0,5.0,5.0,4,5.0,4.0,Budokomi_Mixed,Busia,Busia,Male,4.4,4.6
+5.0,5,5.0,1.0,5.0,5.0,5.0,5,5.0,5.0,Budokomi_Mixed,Busia,Busia ,Female,4.2,5.0
+5.0,5,5.0,1.0,5.0,5.0,5.0,5,5.0,5.0,Budokomi_Mixed,Busia ,Busia ,Female,4.2,5.0
+5.0,4,4.0,1.0,5.0,5.0,5.0,3,4.0,4.0,Budokomi_Mixed,Busia,Busia,Male,3.8,4.2
+5.0,5,5.0,1.0,5.0,5.0,4.0,4,4.0,4.0,Budokomi_Mixed,Busia,Busia,Male,4.2,4.2
+5.0,5,5.0,1.0,4.0,5.0,5.0,4,5.0,5.0,Budokomi_Mixed,Busia,busia,Male,4.0,4.8
+4.0,5,5.0,1.0,5.0,4.0,5.0,4,5.0,4.0,Budokomi_Mixed,Busia,busia,Female,4.0,4.4
+4.0,5,4.0,2.0,4.0,4.0,5.0,5,5.0,5.0,Budokomi_Mixed,Busia ,Busia ,Male,3.8,4.8
+4.0,4,4.0,2.0,4.0,4.0,5.0,5,5.0,4.0,Budokomi_Mixed,Busia,Busia ,Male,3.6,4.6
+5.0,4,5.0,2.0,5.0,4.0,5.0,5,5.0,5.0,Budokomi_Mixed,Busia,Busia,Male,4.2,4.8
+5.0,5,5.0,1.0,5.0,5.0,5.0,5,4.0,4.0,Budokomi_Mixed,Busia,Busiq,Male,4.2,4.6
+5.0,5,5.0,1.0,5.0,5.0,5.0,5,5.0,5.0,Budokomi_Mixed,Busia,Busia,Male,4.2,5.0
+5.0,5,5.0,1.0,5.0,5.0,5.0,5,5.0,5.0,Budokomi_Mixed,Busia,Busia,Male,4.2,5.0
+5.0,5,5.0,1.0,5.0,5.0,5.0,5,5.0,5.0,Budokomi_Mixed,Busia,Busia,Male,4.2,5.0
+5.0,5,5.0,1.0,5.0,5.0,5.0,5,5.0,5.0,Budokomi_Mixed,Busia ,Busia ,Female,4.2,5.0
+4.0,4,4.0,2.0,5.0,5.0,1.0,5,5.0,5.0,Malele_Mixed,Wagai,Siaya,Female,3.8,4.2
+5.0,4,5.0,5.0,5.0,4.0,1.0,3,4.0,5.0,Malele_Mixed,Wagai,Siaya,Male,4.8,3.4
+4.0,5,5.0,4.0,5.0,5.0,1.0,4,5.0,5.0,Malele_Mixed,Wagai,Siaya,Female,4.6,4.0
+5.0,4,5.0,5.0,5.0,4.0,1.0,2,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.8,3.2
+3.0,1,4.0,5.0,5.0,5.0,1.0,3,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,3.6,3.6
+5.0,2,2.0,4.0,3.0,2.0,2.0,5,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,3.2,3.8
+4.0,3,4.0,2.0,5.0,1.0,1.0,1,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,3.6,2.2
+3.0,2,4.0,1.0,5.0,3.0,1.0,3,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,3.0,3.2
+2.0,2,5.0,2.0,4.0,4.0,1.0,4,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,3.0,3.4
+4.0,4,4.0,4.0,4.0,4.0,2.0,4,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,4.0,3.6
+4.0,4,5.0,4.0,5.0,5.0,1.0,4,5.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.4,3.8
+2.0,5,4.0,5.0,5.0,4.0,1.0,1,2.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.2,2.6
+4.0,5,5.0,5.0,5.0,4.0,2.0,1,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.8,3.4
+2.0,4,5.0,5.0,5.0,5.0,1.0,5,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.2,4.2
+2.0,4,5.0,4.0,5.0,5.0,1.0,5,4.0,5.0,Malele_Mixed,Wagai,Siaya ,Female,4.0,4.0
+2.0,2,5.0,5.0,5.0,5.0,1.0,5,5.0,5.0,Malele_Mixed,Wagai,Siaya,Female,3.8,4.2
+5.0,4,5.0,4.0,4.0,4.0,1.0,4,4.0,4.0,Malele_Mixed,Wagai,Siaya,Female,4.4,3.4
+3.0,4,5.0,5.0,5.0,1.0,1.0,2,2.0,5.0,Malele_Mixed,Wagai,Siaya,Female,4.4,2.2
+3.0,4,5.0,5.0,5.0,1.0,1.0,2,4.0,5.0,Malele_Mixed,Wagai,Siaya ,Female,4.4,2.6
+3.0,4,5.0,5.0,5.0,5.0,1.0,2,3.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.4,3.2
+3.0,4,5.0,5.0,5.0,5.0,1.0,1,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.4,3.2
+4.0,4,3.0,5.0,4.0,1.0,5.0,2,4.0,5.0,Malele_Mixed,Wagai,Siaya,Female,4.0,3.4
+4.0,5,5.0,5.0,5.0,5.0,1.0,4,3.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.8,3.6
+5.0,4,5.0,4.0,5.0,5.0,1.0,4,1.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.6,3.2
+2.0,4,5.0,4.0,5.0,1.0,2.0,1,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.0,2.6
+4.0,1,5.0,4.0,1.0,4.0,1.0,2,1.0,5.0,Malele_Mixed,Wagai,Siaya,Female,3.0,2.6
+4.0,2,5.0,4.0,5.0,1.0,2.0,1,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.0,2.6
+4.0,2,5.0,4.0,5.0,2.0,1.0,2,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.0,2.8
+3.0,2,2.0,1.0,5.0,1.0,2.0,2,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,2.6,2.8
+5.0,2,5.0,1.0,5.0,1.0,1.0,2,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,3.6,2.6
+4.0,2,5.0,5.0,5.0,5.0,1.0,1,2.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,4.2,2.6
+4.0,4,2.0,2.0,5.0,1.0,2.0,2,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,3.4,2.6
+4.0,4,5.0,4.0,4.0,2.0,1.0,1,1.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.2,1.8
+4.0,5,5.0,2.0,5.0,1.0,2.0,1,5.0,5.0,Malele_Mixed,Wagai ,Siaya,Female,4.2,2.8
+4.0,4,5.0,4.0,5.0,1.0,1.0,2,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.4,2.8
+5.0,4,4.0,4.0,4.0,5.0,2.0,2,5.0,5.0,Malele_Mixed,Wagai ,Siaya,Female,4.2,3.8
+4.0,4,5.0,4.0,5.0,5.0,1.0,4,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.4,4.0
+4.0,2,5.0,5.0,5.0,1.0,1.0,1,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.2,2.6
+4.0,2,5.0,2.0,5.0,4.0,1.0,2,2.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,3.6,2.8
+3.0,4,5.0,4.0,5.0,1.0,1.0,1,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.2,2.6
+4.0,5,5.0,4.0,4.0,1.0,1.0,5,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.4,3.2
+5.0,1,1.0,3.0,3.0,1.0,1.0,1,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,2.6,2.2
+4.0,5,5.0,3.0,4.0,1.0,1.0,1,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.2,2.4
+4.0,4,5.0,5.0,5.0,2.0,1.0,2,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.6,2.6
+5.0,4,5.0,4.0,5.0,1.0,1.0,2,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,4.6,2.4
+2.0,1,4.0,3.0,3.0,1.0,1.0,2,3.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,2.6,2.2
+2.0,3,5.0,5.0,3.0,2.0,1.0,2,3.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,3.6,2.4
+5.0,5,5.0,4.0,5.0,1.0,1.0,1,3.0,1.0,Malele_Mixed,Wagai ,Siaya ,Female,4.8,1.4
+4.0,4,5.0,4.0,5.0,1.0,1.0,2,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.4,2.6
+4.0,4,5.0,4.0,5.0,1.0,1.0,1,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,4.4,2.2
+4.0,5,5.0,4.0,4.0,3.0,4.0,2,5.0,3.0,Malele_Mixed,Wagai ,Siaya ,Female,4.4,3.4
+4.0,5,3.0,2.0,4.0,1.0,2.0,3,5.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,3.6,3.0
+4.0,1,3.0,2.0,5.0,1.0,1.0,2,1.0,2.0,Malele_Mixed,Wagai ,Siaya ,Female,3.0,1.4
+4.0,5,3.0,4.0,5.0,1.0,1.0,2,4.0,2.0,Malele_Mixed,Wagai ,Siaya ,Female,4.2,2.0
+4.0,5,3.0,4.0,5.0,1.0,1.0,2,4.0,2.0,Malele_Mixed,Wagai ,Siaya ,Female,4.2,2.0
+4.0,5,5.0,5.0,4.0,4.0,2.0,4,5.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.6,3.8
+5.0,4,4.0,1.0,5.0,1.0,2.0,3,1.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,3.8,2.2
+4.0,4,5.0,4.0,5.0,5.0,1.0,4,5.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,4.4,3.8
+5.0,3,5.0,4.0,5.0,4.0,1.0,2,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.4,3.4
+5.0,4,5.0,5.0,5.0,1.0,1.0,2,5.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,4.8,2.6
+4.0,5,5.0,5.0,5.0,1.0,1.0,1,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.8,2.6
+2.0,2,5.0,4.0,2.0,4.0,2.0,1,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,3.0,3.4
+2.0,2,5.0,4.0,2.0,4.0,2.0,1,5.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,3.0,3.2
+4.0,4,4.0,4.0,4.0,2.0,1.0,3,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.0,3.2
+5.0,4,5.0,4.0,4.0,5.0,2.0,2,4.0,4.0,Malele_Mixed,Wagai,Siaya ,Male,4.4,3.4
+4.0,4,1.0,1.0,5.0,5.0,1.0,5,5.0,4.0,Malele_Mixed,Wagai,Siaya,Male,3.0,4.0
+5.0,5,5.0,5.0,5.0,5.0,1.0,1,5.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,5.0,3.2
+5.0,5,5.0,5.0,5.0,5.0,1.0,1,5.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,5.0,3.2
+2.0,2,1.0,4.0,4.0,2.0,1.0,5,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,2.6,3.2
+2.0,2,4.0,2.0,5.0,4.0,1.0,4,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,3.0,3.4
+4.0,4,4.0,4.0,5.0,2.0,1.0,2,3.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.2,2.6
+1.0,3,4.0,2.0,5.0,4.0,1.0,4,5.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,3.0,3.6
+4.0,4,4.0,4.0,5.0,1.0,1.0,2,5.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.2,2.6
+2.0,2,4.0,2.0,5.0,5.0,1.0,4,3.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,3.0,3.6
+5.0,4,4.0,4.0,5.0,1.0,1.0,2,3.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.4,2.2
+1.0,4,5.0,4.0,4.0,4.0,5.0,1,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,3.6,3.8
+4.0,4,4.0,4.0,5.0,1.0,2.0,2,3.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.2,2.4
+4.0,2,5.0,4.0,2.0,5.0,1.0,2,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,3.4,3.4
+1.0,5,5.0,3.0,5.0,1.0,1.0,4,5.0,1.0,Malele_Mixed,Wagai ,Siaya ,Male,3.8,2.4
+4.0,4,4.0,4.0,4.0,4.0,2.0,1,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,4.0,3.0
+4.0,4,4.0,5.0,4.0,4.0,1.0,1,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.2,3.0
+4.0,5,4.0,5.0,5.0,1.0,2.0,5,4.0,2.0,Malele_Mixed,Wagai ,Siaya ,Female,4.6,2.8
+5.0,5,5.0,5.0,5.0,2.0,1.0,4,5.0,1.0,Malele_Mixed,Wagai ,Siaya ,Female,5.0,2.6
+3.0,4,5.0,4.0,5.0,5.0,1.0,5,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.2,4.0
+5.0,4,3.0,4.0,4.0,1.0,2.0,4,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.0,3.2
+4.0,3,5.0,2.0,4.0,5.0,3.0,1,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,3.6,3.4
+4.0,5,4.0,5.0,5.0,4.0,1.0,2,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.6,3.4
+5.0,4,5.0,4.0,4.0,5.0,2.0,4,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.4,4.0
+4.0,4,5.0,4.0,5.0,4.0,2.0,2,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,4.4,3.2
+5.0,4,4.0,5.0,4.0,3.0,1.0,1,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.4,2.6
+4.0,4,5.0,4.0,5.0,4.0,1.0,4,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.4,3.6
+5.0,5,5.0,5.0,4.0,2.0,1.0,1,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.8,2.4
+5.0,4,3.0,4.0,5.0,4.0,1.0,4,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,4.2,3.4
+5.0,4,3.0,4.0,1.0,3.0,2.0,3,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,3.4,3.4
+5.0,4,5.0,2.0,4.0,5.0,1.0,1,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.0,3.2
+4.0,1,5.0,4.0,5.0,1.0,1.0,4,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,3.8,3.0
+4.0,4,4.0,4.0,4.0,5.0,1.0,3,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.0,3.6
+4.0,4,5.0,5.0,5.0,5.0,1.0,4,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.6,3.8
+4.0,5,5.0,4.0,4.0,2.0,1.0,3,5.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.4,3.0
+2.0,4,5.0,4.0,3.0,2.0,1.0,4,5.0,2.0,Malele_Mixed,Wagai ,Siaya ,Male,3.6,2.8
+4.0,5,3.0,4.0,1.0,1.0,2.0,3,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,3.4,3.0
+2.0,1,1.0,4.0,1.0,4.0,1.0,1,4.0,1.0,Malele_Mixed,Wagai ,Siaya ,Male,1.8,2.2
+5.0,4,4.0,4.0,4.0,1.0,2.0,3,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.2,3.0
+4.0,4,5.0,5.0,5.0,5.0,1.0,4,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.6,3.8
+2.0,3,5.0,4.0,5.0,1.0,3.0,5,2.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,3.8,3.2
+5.0,4,5.0,4.0,5.0,4.0,2.0,4,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.6,3.6
+5.0,5,5.0,5.0,5.0,3.0,1.0,3,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,5.0,3.4
+2.0,4,5.0,5.0,5.0,5.0,1.0,1,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.2,3.4
+3.0,4,5.0,5.0,4.0,3.0,1.0,3,5.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.2,3.2
+4.0,5,5.0,4.0,5.0,5.0,3.0,5,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.6,4.4
+4.0,4,3.0,5.0,5.0,1.0,2.0,4,5.0,3.0,Malele_Mixed,Wagai ,Siaya ,Male,4.2,3.0
+4.0,5,4.0,5.0,5.0,5.0,2.0,1,5.0,2.0,Malele_Mixed,Wagai ,Siaya ,Female,4.6,3.0
+5.0,5,5.0,5.0,5.0,5.0,1.0,4,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,5.0,4.0
+5.0,4,3.0,4.0,1.0,3.0,1.0,1,1.0,2.0,Malele_Mixed,Wagai ,Siaya ,Male,3.4,1.6
+4.0,5,5.0,5.0,5.0,4.0,2.0,4,5.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,4.8,3.8
+4.0,4,5.0,5.0,5.0,2.0,1.0,4,3.0,1.0,Malele_Mixed,Wagai ,Siaya ,Male,4.6,2.2
+5.0,4,4.0,4.0,4.0,2.0,1.0,4,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.2,3.0
+1.0,2,5.0,4.0,4.0,2.0,5.0,4,3.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,3.2,3.6
+4.0,4,4.0,4.0,4.0,2.0,1.0,3,4.0,2.0,Malele_Mixed,Wagai ,Siaya ,Male,4.0,2.4
+4.0,5,5.0,4.0,5.0,1.0,2.0,3,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.6,3.0
+4.0,4,5.0,4.0,5.0,1.0,1.0,4,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.4,3.0
+4.0,5,3.0,1.0,1.0,1.0,2.0,5,5.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,2.8,3.4
+4.0,4,5.0,4.0,4.0,2.0,1.0,5,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.2,3.4
+4.0,4,5.0,5.0,5.0,2.0,1.0,5,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.6,3.4
+4.0,4,5.0,5.0,4.0,2.0,1.0,3,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.4,2.8
+4.0,5,1.0,5.0,4.0,1.0,1.0,2,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,3.8,2.6
+4.0,5,5.0,5.0,4.0,2.0,1.0,3,5.0,5.0,Malele_Mixed,Wagai,Siaya ,Male,4.6,3.2
+4.0,4,3.0,5.0,3.0,4.0,1.0,5,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,3.8,4.0
+4.0,5,5.0,5.0,5.0,1.0,1.0,3,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.8,2.6
+4.0,3,5.0,5.0,5.0,1.0,1.0,3,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.4,2.6
+5.0,4,5.0,2.0,5.0,4.0,2.0,1,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.2,3.2
+5.0,4,5.0,5.0,5.0,2.0,1.0,4,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.8,3.0
+5.0,4,5.0,2.0,5.0,2.0,1.0,4,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.2,3.4
+2.0,3,1.0,3.0,5.0,1.0,4.0,2,4.0,5.0,Ojola_Mixed,Wagai,Siaya,Male,2.8,3.2
+4.0,1,5.0,2.0,1.0,4.0,1.0,2,1.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,2.6,2.6
+4.0,5,4.0,1.0,4.0,1.0,1.0,1,5.0,1.0,Malele_Mixed,Wagai ,Siaya ,Female,3.6,1.8
+5.0,4,5.0,1.0,,1.0,1.0,1,5.0,1.0,Malele_Mixed,Wagai ,Siaya ,Female,3.75,1.8
+4.0,5,4.0,5.0,5.0,4.0,1.0,5,5.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,4.6,3.8
+5.0,4,5.0,5.0,,1.0,1.0,2,5.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,4.75,2.6
+5.0,5,5.0,5.0,5.0,1.0,1.0,4,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,5.0,3.2
+4.0,2,4.0,4.0,4.0,1.0,1.0,4,4.0,2.0,Malele_Mixed,Wagai ,Siaya ,Female,3.6,2.4
+2.0,3,4.0,4.0,4.0,1.0,1.0,4,3.0,2.0,Malele_Mixed,Wagai ,Siaya ,Male,3.4,2.2
+4.0,3,5.0,3.0,5.0,3.0,1.0,2,4.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,4.0,3.0
+3.0,3,4.0,3.0,5.0,1.0,1.0,2,3.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.6,2.4
+3.0,1,4.0,3.0,5.0,1.0,1.0,1,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,3.2,2.6
+3.0,4,5.0,3.0,4.0,1.0,1.0,1,2.0,4.0,Ojola_Mixed,Wagai ,Siaya ,Male,3.8,1.8
+1.0,3,4.0,1.0,4.0,1.0,1.0,5,4.0,4.0,Ojola_Mixed,Waga,Siaya ,Male,2.6,3.0
+3.0,2,1.0,3.0,1.0,2.0,1.0,1,4.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,2.0,2.6
+3.0,2,1.0,3.0,2.0,1.0,1.0,5,4.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,2.2,3.2
+3.0,2,2.0,3.0,2.0,1.0,1.0,5,4.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,2.4,3.2
+3.0,2,5.0,3.0,3.0,3.0,1.0,3,3.0,4.0,Ojola_Mixed,Wagai ,Siaya,Female,3.2,2.8
+3.0,4,3.0,3.0,3.0,3.0,1.0,1,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.2,3.0
+3.0,4,4.0,2.0,5.0,5.0,2.0,1,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.6,3.6
+3.0,4,4.0,2.0,5.0,5.0,2.0,2,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.6,3.8
+3.0,3,5.0,4.0,4.0,4.0,1.0,1,1.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.8,2.4
+4.0,3,4.0,5.0,5.0,2.0,1.0,1,4.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,4.2,2.6
+2.0,2,1.0,5.0,3.0,2.0,1.0,1,4.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,2.6,2.6
+2.0,1,3.0,3.0,3.0,3.0,1.0,3,5.0,4.0,Ojola_Mixed,Wagai ,Siaya ,Male,2.4,3.2
+4.0,3,3.0,3.0,4.0,4.0,1.0,2,3.0,3.0,Ojola_Mixed,Wagai ,Siaya ,Male,3.4,2.6
+3.0,3,5.0,4.0,5.0,4.0,1.0,1,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,4.0,3.2
+4.0,3,5.0,4.0,5.0,4.0,1.0,2,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,4.2,3.4
+2.0,4,5.0,3.0,4.0,1.0,1.0,5,4.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.6,3.2
+2.0,4,4.0,3.0,2.0,1.0,1.0,5,4.0,4.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.0,3.0
+4.0,4,5.0,2.0,5.0,1.0,1.0,1,4.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,4.0,2.4
+3.0,4,5.0,2.0,5.0,3.0,1.0,1,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.8,3.0
+4.0,4,5.0,5.0,5.0,5.0,1.0,3,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,4.6,3.8
+3.0,3,5.0,3.0,4.0,5.0,1.0,1,3.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.6,3.0
+4.0,4,5.0,2.0,5.0,1.0,1.0,1,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,4.0,2.6
+4.0,4,5.0,2.0,5.0,1.0,1.0,1,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,4.0,2.6
+3.0,4,5.0,3.0,5.0,5.0,1.0,5,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,4.0,4.2
+5.0,3,4.0,4.0,4.0,2.0,1.0,1,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,4.0,2.8
+3.0,3,4.0,2.0,4.0,3.0,1.0,1,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,3.2,3.0
+3.0,3,4.0,2.0,3.0,3.0,1.0,1,3.0,3.0,Ojola_Mixed,Wagai ,Siaya ,Male,3.0,2.2
+3.0,3,3.0,2.0,3.0,4.0,1.0,1,4.0,4.0,Ojola_Mixed,Wagai ,Siaya ,Male,2.8,2.8
+5.0,5,5.0,1.0,5.0,4.0,1.0,1,4.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,4.2,3.0
+4.0,3,4.0,2.0,3.0,2.0,1.0,1,3.0,4.0,Ojola_Mixed,Wagai ,Siaya ,Male,3.2,2.2
+3.0,2,4.0,2.0,5.0,5.0,1.0,2,3.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,3.2,3.2
+4.0,4,5.0,5.0,5.0,5.0,1.0,2,4.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,4.6,3.4
+5.0,4,4.0,2.0,5.0,4.0,1.0,2,3.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,4.0,3.0
+3.0,4,5.0,5.0,5.0,4.0,1.0,2,2.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,4.4,2.8
+3.0,4,4.0,3.0,5.0,4.0,1.0,1,3.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.8,2.8
+4.0,4,4.0,2.0,4.0,4.0,1.0,3,4.0,4.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.6,3.2
+3.0,4,4.0,5.0,5.0,1.0,1.0,2,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,4.2,2.8
+1.0,2,4.0,2.0,2.0,1.0,1.0,2,1.0,2.0,Malele_Mixed,Wagai ,Siaya ,Female,2.2,1.4
+5.0,5,4.0,5.0,5.0,1.0,1.0,3,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.8,2.6
+5.0,4,5.0,5.0,5.0,2.0,1.0,1,4.0,5.0,Malele_Mixed,Wagai,Siaya ,Female,4.8,2.6
+4.0,4,5.0,5.0,5.0,2.0,1.0,1,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.6,2.6
+4.0,4,5.0,5.0,5.0,1.0,1.0,5,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.6,3.4
+4.0,4,4.0,5.0,5.0,1.0,1.0,5,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.4,3.4
+4.0,5,5.0,5.0,5.0,5.0,1.0,5,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.8,4.2
+4.0,4,4.0,5.0,5.0,1.0,1.0,2,4.0,3.0,Malele_Mixed,Wagai ,Siaya ,Female,4.4,2.2
+3.0,4,4.0,2.0,5.0,5.0,2.0,2,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.6,3.8
+3.0,4,4.0,1.0,5.0,2.0,2.0,3,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.4,3.4
+4.0,4,5.0,1.0,,4.0,1.0,5,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.5,4.0
+4.0,4,4.0,3.0,4.0,3.0,4.0,4,4.0,4.0,Ojola_Mixed,Wagai ,Siaya ,Male,3.8,3.8
+4.0,4,4.0,3.0,4.0,4.0,2.0,2,4.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,3.8,3.4
+5.0,4,3.0,4.0,2.0,5.0,4.0,3,2.0,2.0,Ojola_Mixed,Wagai ,Siaya ,Male,3.6,3.2
+3.0,4,5.0,3.0,4.0,5.0,1.0,5,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,3.8,4.2
+3.0,3,4.0,3.0,5.0,5.0,1.0,3,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,3.6,3.8
+3.0,4,1.0,3.0,2.0,1.0,3.0,4,4.0,5.0,Ojola_Mixed,Wagai ,Siaya,Female,2.6,3.4
+3.0,2,5.0,5.0,4.0,2.0,1.0,1,4.0,1.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.8,1.8
+4.0,3,5.0,3.0,5.0,5.0,1.0,2,4.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,4.0,3.4
+4.0,4,5.0,3.0,5.0,5.0,1.0,2,4.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,4.2,3.4
+3.0,3,4.0,3.0,4.0,5.0,1.0,3,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,3.4,3.8
+3.0,3,3.0,2.0,5.0,1.0,2.0,2,4.0,4.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.2,2.6
+4.0,5,5.0,5.0,5.0,2.0,1.0,5,4.0,3.0,Malele_Mixed,Wagai ,Siaya ,Female,4.8,3.0
+3.0,3,3.0,2.0,4.0,4.0,4.0,3,4.0,4.0,Ojola_Mixed,Wagai,Siaya ,Female,3.0,3.8
+5.0,5,4.0,5.0,5.0,1.0,1.0,4,4.0,3.0,Malele_Mixed,Wagai ,Siaya ,Female,4.8,2.6
+4.0,5,5.0,5.0,5.0,1.0,1.0,4,5.0,3.0,Malele_Mixed,Wagai ,Siaya ,Female,4.8,2.8
+5.0,4,5.0,5.0,5.0,3.0,1.0,4,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.8,3.2
+5.0,4,5.0,4.0,5.0,1.0,2.0,1,5.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.6,2.6
+4.0,5,5.0,5.0,5.0,2.0,1.0,1,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.8,2.8
+4.0,5,5.0,5.0,5.0,2.0,1.0,1,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.8,2.6
+4.0,5,5.0,5.0,5.0,1.0,1.0,1,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.8,2.4
+5.0,4,5.0,5.0,5.0,1.0,1.0,2,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.8,2.8
+5.0,4,5.0,5.0,5.0,1.0,1.0,2,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.8,2.8
+4.0,2,1.0,1.0,5.0,1.0,2.0,1,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,2.6,2.6
+4.0,5,5.0,4.0,4.0,2.0,1.0,1,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.4,2.4
+4.0,5,5.0,5.0,5.0,1.0,1.0,1,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.8,2.6
+5.0,5,4.0,1.0,5.0,1.0,1.0,1,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Female,4.0,2.4
+3.0,4,5.0,4.0,4.0,2.0,1.0,1,2.0,1.0,Malele_Mixed,Wagai ,Siaya ,Male,4.0,1.4
+4.0,4,5.0,5.0,5.0,2.0,1.0,1,2.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.6,2.2
+3.0,3,4.0,3.0,4.0,4.0,1.0,2,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.4,3.4
+5.0,5,5.0,4.0,5.0,1.0,1.0,5,5.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.8,3.2
+5.0,5,5.0,5.0,5.0,2.0,1.0,4,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,5.0,3.4
+3.0,3,5.0,3.0,3.0,4.0,1.0,1,4.0,3.0,Ojola_Mixed,Wagai ,Siaya ,Male,3.4,2.6
+5.0,5,5.0,5.0,5.0,4.0,2.0,5,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,5.0,4.2
+4.0,5,5.0,5.0,5.0,1.0,1.0,4,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.8,3.2
+3.0,4,5.0,2.0,5.0,4.0,1.0,3,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.8,3.6
+4.0,4,4.0,5.0,5.0,2.0,1.0,1,4.0,2.0,Malele_Mixed,Wagai ,Siaya ,Male,4.4,2.0
+5.0,5,5.0,5.0,5.0,4.0,2.0,2,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,5.0,3.4
+4.0,4,5.0,5.0,5.0,4.0,1.0,2,5.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,4.6,3.2
+5.0,5,5.0,2.0,5.0,5.0,1.0,1,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,4.4,3.4
+2.0,4,5.0,5.0,5.0,1.0,1.0,1,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Female,4.2,2.2
+4.0,4,5.0,4.0,5.0,1.0,1.0,1,5.0,1.0,Malele_Mixed,Wagai ,Siaya ,Male,4.4,1.8
+4.0,4,5.0,4.0,5.0,1.0,1.0,2,5.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.4,2.8
+4.0,5,5.0,5.0,5.0,2.0,1.0,4,4.0,5.0,Malele_Mixed,Wagai ,Siaya ,Male,4.8,3.2
+4.0,3,5.0,4.0,5.0,2.0,1.0,1,4.0,2.0,Malele_Mixed,Wagai ,Siaya ,Male,4.2,2.0
+5.0,5,5.0,5.0,5.0,2.0,1.0,1,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,5.0,2.4
+5.0,5,5.0,5.0,5.0,2.0,1.0,1,4.0,4.0,Malele_Mixed,Wagai ,Siaya ,Male,5.0,2.4
+1.0,3,4.0,2.0,4.0,5.0,1.0,1,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,2.8,3.4
+3.0,3,5.0,2.0,5.0,4.0,5.0,1,4.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.6,3.8
+3.0,3,5.0,5.0,5.0,5.0,1.0,1,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,4.2,3.4
+3.0,4,5.0,3.0,5.0,5.0,1.0,2,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,4.0,3.6
+4.0,4,4.0,2.0,4.0,5.0,5.0,1,4.0,4.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.6,3.8
+4.0,3,4.0,3.0,5.0,5.0,2.0,2,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.8,3.8
+4.0,3,5.0,3.0,4.0,3.0,1.0,2,5.0,4.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.8,3.0
+3.0,4,5.0,1.0,4.0,5.0,1.0,1,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,3.4,3.4
+3.0,3,4.0,3.0,3.0,1.0,1.0,3,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.2,3.0
+3.0,3,4.0,3.0,4.0,1.0,1.0,3,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.4,3.0
+3.0,4,5.0,3.0,3.0,5.0,1.0,3,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.6,3.8
+3.0,2,4.0,4.0,2.0,2.0,1.0,1,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,3.0,2.8
+2.0,2,5.0,3.0,2.0,2.0,1.0,2,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,2.8,3.0
+2.0,2,5.0,4.0,2.0,1.0,1.0,1,4.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.0,2.4
+3.0,4,5.0,3.0,5.0,4.0,1.0,2,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,4.0,3.4
+5.0,2,5.0,1.0,5.0,4.0,1.0,1,1.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,3.6,2.4
+3.0,4,5.0,4.0,5.0,1.0,1.0,1,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,4.2,2.6
+3.0,4,2.0,4.0,2.0,1.0,1.0,1,4.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.0,2.4
+5.0,4,5.0,3.0,5.0,1.0,1.0,3,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Male,4.4,3.0
+3.0,2,3.0,1.0,5.0,3.0,1.0,1,4.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,2.8,2.8
+3.0,3,5.0,4.0,4.0,2.0,1.0,1,4.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.8,2.6
+3.0,3,4.0,4.0,5.0,5.0,1.0,1,5.0,5.0,Ojola_Mixed,Wagai ,Siaya ,Female,3.8,3.4
+4.0,3,4.0,5.0,4.0,4.0,4.0,4,4.0,4.0,Lions_Mixed,Kisumu central ,Kisumu ,Female,4.0,4.0
+4.0,5,5.0,1.0,4.0,4.0,5.0,4,4.0,4.0,Lions_Mixed,Kisumu central ,Kisumu ,Male,3.8,4.2
+3.0,2,4.0,2.0,5.0,4.0,4.0,3,3.0,4.0,Lions_Mixed,Kisumu central ,Kisumu ,Female,3.2,3.6
+4.0,5,4.0,3.0,4.0,3.0,2.0,5,3.0,4.0,Lions_Mixed,Kisumu central ,Kisumu ,Male,4.0,3.4
+5.0,5,4.0,5.0,5.0,5.0,5.0,5,5.0,5.0,Lions_Mixed,Kisumu central ,Kisumu ,Male,4.8,5.0
+4.0,4,4.0,2.0,5.0,3.0,5.0,2,3.0,3.0,Lions_Mixed,Kisumu central ,Kisumu ,Female,3.8,3.2
+5.0,4,3.0,2.0,4.0,4.0,5.0,1,3.0,3.0,Lions_Mixed,Kisumu central ,Kisumu ,Female,3.6,3.2
+3.0,4,4.0,2.0,3.0,4.0,4.0,1,3.0,3.0,Lions_Mixed,Kisumu central ,Kisumu ,Male,3.2,3.0
+4.0,3,2.0,2.0,4.0,2.0,1.0,2,4.0,3.0,Magunga_Mixed,Nyakach,Kisumu,Male,3.0,2.4
+2.0,2,3.0,2.0,3.0,3.0,1.0,2,4.0,4.0,Magunga_Mixed,Nyakach,Kisumu,Male,2.4,2.8
+5.0,4,5.0,4.0,5.0,4.0,2.0,2,4.0,4.0,Magunga_Mixed,Nyakach,Kisumu,Female,4.6,3.2
+4.0,4,5.0,4.0,4.0,4.0,2.0,3,4.0,3.0,Magunga_Mixed,Nyakach,Kisumu,Male,4.2,3.2
+4.0,5,4.0,4.0,5.0,5.0,2.0,3,4.0,3.0,Magunga_Mixed,Nyakach,Kisumu,Female,4.4,3.4
+2.0,2,4.0,2.0,3.0,4.0,2.0,4,4.0,3.0,Magunga_Mixed,Nyakach,Kisumu,Female,2.6,3.4
+4.0,4,5.0,4.0,5.0,4.0,2.0,4,4.0,4.0,Magunga_Mixed,Nyakach,Kisumu,Female,4.4,3.6
+5.0,5,4.0,5.0,1.0,5.0,4.0,4,1.0,5.0,Lions_Mixed,Kisumu central ,Kisumu,Male,4.0,3.8
+4.0,3,4.0,4.0,5.0,4.0,4.0,5,5.0,5.0,Lions_Mixed,Kisumu central ,Kisumu,Female,4.0,4.6
+3.0,4,2.0,3.0,3.0,4.0,4.0,3,4.0,4.0,Lions_Mixed,Kisumu central ,Kisumu,Female,3.0,3.8
+5.0,5,5.0,5.0,5.0,5.0,5.0,1,1.0,5.0,Lions_Mixed,Kisumu central ,Kisumu,Male,5.0,3.4
+5.0,4,4.0,1.0,5.0,5.0,5.0,1,1.0,3.0,Lions_Mixed,Kisumu central ,Kisumu,Male,3.8,3.0
+4.0,5,4.0,5.0,3.0,3.0,4.0,4,5.0,1.0,Lions_Mixed,Kisumu central ,Kisumu,Female,4.2,3.4
+5.0,4,5.0,5.0,5.0,4.0,3.0,4,4.0,4.0,Lions_Mixed,Kisumu central ,Kisumu,Male,4.8,3.8
+3.0,3,3.0,2.0,3.0,3.0,3.0,3,3.0,3.0,Lions_Mixed,Kisumu central ,Kisumu,Female,2.8,3.0
+5.0,4,4.0,4.0,5.0,5.0,5.0,5,5.0,1.0,Lions_Mixed,Kisumu central ,Kisumu,Male,4.4,4.2
+3.0,4,5.0,5.0,5.0,5.0,5.0,1,1.0,4.0,Lions_Mixed,Kisumu central ,Kisumu,Female,4.4,3.2
+5.0,4,5.0,5.0,5.0,4.0,5.0,4,4.0,5.0,Lions_Mixed,KISUMU CENTAL,Kisumu,Male,4.8,4.4
+5.0,4,4.0,5.0,4.0,5.0,5.0,5,4.0,5.0,Lions_Mixed,Kisumu central ,Kisumu,Male,4.4,4.8
+4.0,3,3.0,4.0,4.0,4.0,4.0,4,4.0,3.0,Lions_Mixed,Kisumu central ,Kisumu,Female,3.6,3.8
+2.0,3,2.0,3.0,3.0,4.0,4.0,3,3.0,3.0,Lions_Mixed,Kisumu central ,Kisumu,Female,2.6,3.4
+5.0,5,5.0,5.0,1.0,5.0,5.0,5,5.0,5.0,Lions_Mixed,Kisumu central ,Kisumu,Male,4.2,5.0
+4.0,4,3.0,3.0,4.0,5.0,3.0,4,4.0,3.0,Lions_Mixed,Kisumu central ,Kisumu,Female,3.6,3.8
+5.0,5,5.0,5.0,5.0,5.0,5.0,1,5.0,5.0,Lions_Mixed,Kisumu central ,Kisumu,Male,5.0,4.2
+5.0,5,5.0,5.0,5.0,4.0,3.0,3,5.0,5.0,Lions_Mixed,Kisumu central ,Kisumu,Male,5.0,4.0
+5.0,4,5.0,5.0,5.0,5.0,5.0,5,5.0,5.0,Lions_Mixed,Kisumu central ,Kisumu,Male,4.8,5.0
+4.0,3,2.0,3.0,3.0,3.0,4.0,3,3.0,4.0,Lions_Mixed,Kisumu central ,Kisumu,Male,3.0,3.4
+3.0,3,4.0,4.0,4.0,4.0,3.0,3,4.0,5.0,Lions_Mixed,Kisumu central ,Kisumu,Male,3.6,3.8
+3.0,4,4.0,2.0,5.0,4.0,1.0,1,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.6,3.0
+4.0,3,4.0,2.0,4.0,2.0,2.0,2,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,3.4,3.0
+3.0,4,4.0,3.0,5.0,4.0,1.0,2,5.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.8,3.4
+4.0,3,5.0,3.0,4.0,3.0,2.0,1,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.8,2.8
+4.0,3,2.0,1.0,4.0,1.0,2.0,1,4.0,3.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,2.8,2.2
+4.0,4,5.0,2.0,5.0,3.0,1.0,1,3.0,3.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,4.0,2.2
+3.0,3,5.0,2.0,3.0,1.0,1.0,2,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.2,2.6
+2.0,2,4.0,3.0,3.0,2.0,1.0,2,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,2.8,2.8
+4.0,3,5.0,3.0,4.0,2.0,1.0,2,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.8,2.6
+5.0,4,4.0,3.0,5.0,5.0,1.0,1,5.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,4.2,3.4
+3.0,4,5.0,4.0,5.0,1.0,1.0,4,5.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,4.2,3.0
+5.0,4,5.0,4.0,4.0,2.0,1.0,1,5.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,4.4,2.6
+3.0,2,4.0,2.0,5.0,5.0,1.0,1,4.0,1.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.2,2.4
+3.0,2,5.0,2.0,3.0,5.0,1.0,1,3.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.0,2.8
+3.0,2,4.0,1.0,3.0,1.0,1.0,2,5.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,2.6,2.8
+2.0,3,4.0,2.0,3.0,2.0,1.0,1,5.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,2.8,2.6
+2.0,4,4.0,3.0,3.0,2.0,2.0,2,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.2,2.8
+3.0,2,5.0,3.0,5.0,1.0,1.0,1,5.0,3.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.6,2.2
+4.0,4,5.0,5.0,5.0,3.0,1.0,1,3.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,4.6,2.4
+4.0,4,5.0,5.0,5.0,1.0,1.0,4,5.0,2.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,4.6,2.6
+3.0,1,5.0,3.0,4.0,2.0,1.0,2,5.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.2,3.0
+4.0,5,4.0,2.0,5.0,3.0,1.0,2,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,4.0,3.0
+4.0,3,5.0,4.0,5.0,3.0,2.0,2,5.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,4.2,3.2
+4.0,4,5.0,4.0,5.0,1.0,1.0,2,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,4.4,2.6
+3.0,4,5.0,3.0,4.0,2.0,1.0,1,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.8,2.6
+3.0,4,5.0,5.0,5.0,1.0,2.0,1,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,4.4,2.6
+3.0,4,5.0,2.0,4.0,2.0,1.0,1,4.0,3.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.6,2.2
+3.0,3,5.0,3.0,3.0,1.0,1.0,1,3.0,1.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.4,1.4
+4.0,4,5.0,4.0,4.0,5.0,1.0,4,4.0,3.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,4.2,3.4
+3.0,3,5.0,3.0,4.0,1.0,1.0,1,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,3.6,2.2
+5.0,5,4.0,1.0,5.0,3.0,1.0,1,4.0,3.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,4.0,2.4
+3.0,2,5.0,3.0,4.0,3.0,2.0,4,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.4,3.4
+3.0,4,5.0,4.0,5.0,4.0,1.0,2,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,4.2,3.2
+3.0,2,4.0,3.0,4.0,2.0,1.0,2,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.2,2.6
+3.0,1,4.0,5.0,5.0,1.0,1.0,1,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.6,2.2
+3.0,2,4.0,2.0,5.0,1.0,1.0,1,5.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.2,2.4
+3.0,4,5.0,4.0,5.0,1.0,1.0,2,5.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,4.2,2.6
+3.0,5,3.0,4.0,4.0,3.0,5.0,1,3.0,2.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.8,2.8
+3.0,3,3.0,3.0,3.0,3.0,3.0,3,3.0,3.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,3.0,3.0
+5.0,5,5.0,3.0,5.0,4.0,2.0,5,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,4.6,4.0
+1.0,3,4.0,5.0,5.0,4.0,4.0,2,5.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.6,4.0
+5.0,5,5.0,1.0,5.0,4.0,5.0,5,2.0,3.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,4.2,3.8
+3.0,3,5.0,2.0,4.0,5.0,1.0,4,5.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.4,3.8
+5.0,4,3.0,4.0,1.0,1.0,2.0,3,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,3.4,3.0
+3.0,2,5.0,1.0,4.0,5.0,1.0,5,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.0,3.8
+4.0,3,4.0,3.0,5.0,1.0,1.0,2,3.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,3.8,2.2
+3.0,2,5.0,5.0,4.0,3.0,2.0,2,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,3.8,3.2
+3.0,2,5.0,3.0,4.0,3.0,2.0,4,2.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,3.4,3.0
+3.0,2,5.0,4.0,4.0,2.0,2.0,3,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.6,3.0
+3.0,3,5.0,5.0,5.0,1.0,1.0,1,3.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,4.2,2.2
+2.0,3,3.0,4.0,3.0,2.0,1.0,1,3.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.0,2.2
+3.0,3,4.0,4.0,4.0,2.0,1.0,2,3.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,3.6,2.4
+5.0,5,5.0,5.0,5.0,4.0,2.0,4,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,5.0,3.8
+2.0,4,5.0,3.0,4.0,2.0,1.0,3,5.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.6,3.0
+4.0,4,4.0,4.0,5.0,2.0,2.0,3,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,4.2,3.2
+3.0,2,4.0,3.0,4.0,2.0,2.0,1,5.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.2,2.8
+4.0,3,5.0,3.0,3.0,3.0,1.0,1,3.0,2.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.6,2.0
+3.0,3,5.0,2.0,4.0,2.0,1.0,3,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.4,3.0
+3.0,3,5.0,3.0,4.0,1.0,1.0,3,3.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.6,2.6
+4.0,3,5.0,4.0,5.0,2.0,1.0,3,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,4.2,3.0
+3.0,3,5.0,3.0,5.0,5.0,2.0,4,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.8,3.8
+3.0,3,5.0,3.0,4.0,2.0,1.0,2,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.6,2.6
+3.0,4,5.0,3.0,3.0,4.0,1.0,3,5.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.6,3.4
+3.0,2,5.0,2.0,5.0,5.0,1.0,2,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.4,3.2
+2.0,2,4.0,3.0,4.0,4.0,1.0,2,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.0,3.0
+3.0,3,5.0,3.0,3.0,5.0,1.0,3,5.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.4,3.6
+3.0,3,5.0,3.0,5.0,2.0,2.0,3,5.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.8,3.4
+3.0,2,5.0,3.0,4.0,2.0,1.0,3,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.4,3.0
+2.0,3,5.0,3.0,1.0,4.0,1.0,5,5.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,2.8,3.8
+3.0,3,5.0,3.0,4.0,5.0,1.0,4,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.6,3.6
+3.0,1,5.0,3.0,5.0,5.0,1.0,1,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.4,3.0
+3.0,2,4.0,3.0,5.0,2.0,1.0,1,5.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,3.4,2.6
+3.0,2,4.0,3.0,5.0,2.0,1.0,1,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,3.4,2.4
+3.0,2,5.0,4.0,4.0,1.0,1.0,2,4.0,3.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.6,2.2
+4.0,3,5.0,3.0,5.0,1.0,1.0,5,5.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,4.0,3.4
+1.0,2,3.0,2.0,5.0,5.0,3.0,4,3.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,2.6,3.8
+4.0,4,5.0,3.0,5.0,4.0,3.0,3,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,4.2,3.6
+3.0,4,4.0,3.0,4.0,2.0,2.0,3,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,3.6,3.0
+5.0,4,4.0,5.0,5.0,4.0,2.0,2,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,4.6,3.2
+2.0,2,4.0,3.0,5.0,2.0,1.0,1,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,3.2,2.4
+4.0,1,5.0,2.0,5.0,1.0,1.0,5,4.0,1.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.4,2.4
+3.0,4,5.0,4.0,4.0,3.0,2.0,4,2.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,4.0,3.2
+3.0,2,5.0,5.0,5.0,1.0,1.0,1,5.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,4.0,2.6
+3.0,2,4.0,2.0,3.0,4.0,1.0,4,1.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,2.8,3.0
+2.0,3,1.0,3.0,2.0,2.0,1.0,3,1.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,2.2,2.4
+3.0,2,4.0,4.0,5.0,3.0,1.0,1,3.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.6,2.4
+3.0,3,5.0,3.0,4.0,1.0,1.0,3,3.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.6,2.6
+4.0,3,5.0,4.0,5.0,2.0,1.0,3,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,4.2,3.0
+3.0,3,5.0,3.0,5.0,5.0,2.0,4,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.8,3.8
+3.0,4,5.0,3.0,3.0,4.0,1.0,3,5.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.6,3.4
+3.0,3,5.0,3.0,3.0,5.0,1.0,3,5.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.4,3.6
+2.0,3,5.0,3.0,1.0,4.0,1.0,5,5.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,2.8,3.8
+3.0,3,5.0,3.0,4.0,5.0,1.0,4,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.6,3.6
+3.0,1,5.0,3.0,5.0,5.0,1.0,1,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.4,3.0
+3.0,2,4.0,3.0,5.0,2.0,1.0,1,5.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,3.4,2.6
+3.0,2,4.0,3.0,5.0,2.0,1.0,1,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,3.4,2.4
+3.0,2,5.0,4.0,4.0,1.0,1.0,2,4.0,3.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.6,2.2
+4.0,3,5.0,3.0,5.0,1.0,1.0,5,5.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,4.0,3.4
+1.0,2,3.0,2.0,5.0,3.0,4.0,5,3.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,2.6,3.8
+3.0,4,4.0,3.0,4.0,2.0,2.0,3,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,3.6,3.2
+2.0,2,4.0,3.0,5.0,2.0,1.0,1,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,3.2,2.4
+3.0,2,5.0,5.0,5.0,1.0,1.0,1,5.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,4.0,2.6
+3.0,3,4.0,4.0,5.0,3.0,1.0,3,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.8,3.0
+3.0,2,1.0,4.0,3.0,2.0,2.0,2,1.0,1.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,2.6,1.6
+3.0,5,3.0,4.0,5.0,1.0,1.0,1,4.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,4.0,2.2
+5.0,1,4.0,3.0,4.0,2.0,1.0,1,4.0,2.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,3.4,2.0
+4.0,2,5.0,3.0,1.0,3.0,1.0,2,5.0,4.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.0,3.0
+3.0,2,,5.0,4.0,2.0,1.0,2,4.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,3.5,2.8
+4.0,2,5.0,5.0,5.0,3.0,1.0,2,5.0,5.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,4.2,3.2
+2.0,3,1.0,4.0,1.0,2.0,4.0,1,1.0,1.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,2.2,1.8
+4.0,3,5.0,3.0,5.0,2.0,1.0,1,4.0,3.0,Nduru_Mixed,Alego_Usonga,Siaya ,Male,4.0,2.2
+3.0,3,5.0,4.0,4.0,4.0,2.0,2,4.0,3.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.8,3.0
+3.0,3,5.0,4.0,4.0,2.0,1.0,1,4.0,3.0,Nduru_Mixed,Alego_Usonga,Siaya ,Female,3.8,2.2
